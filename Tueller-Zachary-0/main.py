@@ -1,4 +1,7 @@
 
+# Zachary Tueller
+# CS1400 - MO1
+# Assignment 0
 class core():
     def __init__(self):
         self.name = 'Zachary Tueller'
