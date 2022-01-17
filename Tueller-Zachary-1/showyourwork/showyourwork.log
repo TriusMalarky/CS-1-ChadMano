@@ -1,0 +1,106 @@
+"e","# This is a sample Python script.
+
+# Press Shift+F10 to execute it or replace it with your code.
+# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+
+
+def print_hi(name):
+    # Use a breakpoint in the code line below to debug your script.
+    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+
+
+# Press the green button in the gutter to run the script.
+if __name__ == '__main__':
+    print_hi('PyCharm')
+
+# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+","","0","103354","main.py","1.1.2 for 2021-2022 @t1","2"
+"a","Outside edit","","","1642442126545","player.py","1.1.2 for 2021-2022 @t1","2"
+"a","Outside edit","","","1642442126546","action.py","1.1.2 for 2021-2022 @t1","2"
+"a","Outside edit","","","1642442126546","core.py","1.1.2 for 2021-2022 @t1","2"
+"a","Outside edit","","","1642442126546","darkroom.py","1.1.2 for 2021-2022 @t1","2"
+"a","Outside edit","","","1642442126547","biome.py","1.1.2 for 2021-2022 @t1","2"
+"a","Outside edit","","","1642442126547","main.py","1.1.2 for 2021-2022 @t1","2"
+"a","ShowYourWork Init","","","000","ShowYourWork Init","1.1.2 for 2021-2022 @t1","0"
+"e","","# See PyCharm help at https://www.jetbrains.com/help/pycharm/","466","151726","main.py","1.1.2 for 2021-2022 @t1","0"
+"e","","# This is a sample Python script.
+
+# Press Shift+F10 to execute it or replace it with your code.
+# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+
+
+def print_hi(name):
+    # Use a breakpoint in the code line below to debug your script.
+    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.","0","155314","main.py","1.1.2 for 2021-2022 @t1","0"
+"e","#","","0","157124","main.py","1.1.2 for 2021-2022 @t1","0"
+"k","#",,"1","157132","main.py","1.1.2 for 2021-2022 @t1","0"
+"e"," ","","1","158953","main.py","1.1.2 for 2021-2022 @t1","0"
+"k"," ",,"2","158959","main.py","1.1.2 for 2021-2022 @t1","0"
+"e","
+","","5","159877","main.py","1.1.2 for 2021-2022 @t1","0"
+"e","","
+","5","160721","main.py","1.1.2 for 2021-2022 @t1","0"
+"e",""," ","1","161110","main.py","1.1.2 for 2021-2022 @t1","0"
+"e","","#","0","161400","main.py","1.1.2 for 2021-2022 @t1","0"
+"e","# Zachary Tueller  
+# CS1400 - MO1
+# Assignment x","","0","173212","task1.py","1.1.2 for 2021-2022 @t1","0"
+"e","
+","","49","173660","task1.py","1.1.2 for 2021-2022 @t1","0"
+"e","","x","48","180563","task1.py","1.1.2 for 2021-2022 @t1","0"
+"e","1","","48","180565","task1.py","1.1.2 for 2021-2022 @t1","0"
+"k","1",,"49","180567","task1.py","1.1.2 for 2021-2022 @t1","0"
+"e"," ","","49","180827","task1.py","1.1.2 for 2021-2022 @t1","0"
+"c","# Zachary Tueller  
+# CS1400 - MO1
+# Assignment 1",,"0","183587","task1.py","1.1.2 for 2021-2022 @t1","0"
+"p","# Zachary Tueller  
+# CS1400 - MO1
+# Assignment 1",,"0","185957","main.py","1.1.2 for 2021-2022 @t1","0"
+"e","# Zachary Tueller  
+# CS1400 - MO1
+# Assignment 1","","0","185965","main.py","1.1.2 for 2021-2022 @t1","0"
+"e","
+","","52","189948","main.py","1.1.2 for 2021-2022 @t1","0"
+"e","i","","50","190825","main.py","1.1.2 for 2021-2022 @t1","0"
+"k","i",,"51","190827","main.py","1.1.2 for 2021-2022 @t1","0"
+"e"," ","","51","190850","main.py","1.1.2 for 2021-2022 @t1","0"
+"e",""," ","51","191040","main.py","1.1.2 for 2021-2022 @t1","0"
+"e","m","","51","191041","main.py","1.1.2 for 2021-2022 @t1","0"
+"k","m",,"52","191048","main.py","1.1.2 for 2021-2022 @t1","0"
+"e"," ","","52","191133","main.py","1.1.2 for 2021-2022 @t1","0"
+"e",""," ","52","192009","main.py","1.1.2 for 2021-2022 @t1","0"
+"e","p","","52","192010","main.py","1.1.2 for 2021-2022 @t1","0"
+"k","p",,"53","192025","main.py","1.1.2 for 2021-2022 @t1","0"
+"e","o","","53","192185","main.py","1.1.2 for 2021-2022 @t1","0"
+"k","o",,"54","192200","main.py","1.1.2 for 2021-2022 @t1","0"
+"e","r","","54","192311","main.py","1.1.2 for 2021-2022 @t1","0"
+"k","r",,"55","192323","main.py","1.1.2 for 2021-2022 @t1","0"
+"e","t","","55","192504","main.py","1.1.2 for 2021-2022 @t1","0"
+"k","t",,"56","192514","main.py","1.1.2 for 2021-2022 @t1","0"
+"e"," ","","56","192736","main.py","1.1.2 for 2021-2022 @t1","0"
+"k"," ",,"57","192738","main.py","1.1.2 for 2021-2022 @t1","0"
+"e","t","","57","193098","main.py","1.1.2 for 2021-2022 @t1","0"
+"k","t",,"58","193100","main.py","1.1.2 for 2021-2022 @t1","0"
+"e"," ","","58","193131","main.py","1.1.2 for 2021-2022 @t1","0"
+"e",""," ","58","193365","main.py","1.1.2 for 2021-2022 @t1","0"
+"e","a","","58","193366","main.py","1.1.2 for 2021-2022 @t1","0"
+"k","a",,"59","193375","main.py","1.1.2 for 2021-2022 @t1","0"
+"e"," ","","59","193401","main.py","1.1.2 for 2021-2022 @t1","0"
+"e",""," ","59","193540","main.py","1.1.2 for 2021-2022 @t1","0"
+"e","s","","59","193541","main.py","1.1.2 for 2021-2022 @t1","0"
+"k","s",,"60","193553","main.py","1.1.2 for 2021-2022 @t1","0"
+"e"," ","","60","193589","main.py","1.1.2 for 2021-2022 @t1","0"
+"e",""," ","60","193656","main.py","1.1.2 for 2021-2022 @t1","0"
+"e","k","","60","193657","main.py","1.1.2 for 2021-2022 @t1","0"
+"k","k",,"61","193663","main.py","1.1.2 for 2021-2022 @t1","0"
+"e"," ","","61","193767","main.py","1.1.2 for 2021-2022 @t1","0"
+"e",""," ","61","193850","main.py","1.1.2 for 2021-2022 @t1","0"
+"e","1","","61","193851","main.py","1.1.2 for 2021-2022 @t1","0"
+"k","1",,"62","193857","main.py","1.1.2 for 2021-2022 @t1","0"
+"e"," ","","62","193909","main.py","1.1.2 for 2021-2022 @t1","0"
+"e",""," ","49","199946","task1.py","1.1.2 for 2021-2022 @t1","0"
+"e","
+","","49","199947","task1.py","1.1.2 for 2021-2022 @t1","0"
+"e","","  ","17","201622","main.py","1.1.2 for 2021-2022 @t1","0"
+"e",""," ","60","201622","main.py","1.1.2 for 2021-2022 @t1","0"
