@@ -40,3 +40,16 @@ def task1():
 
     # vv arms
     tr.pencolor("brown")
+    tr.goto(75,50);tr.down();tr.goto(100,30);tr.goto(130,80);tr.goto(140,90);tr.up()
+    tr.goto(130,80);tr.down();tr.goto(140,80);tr.up();tr.goto(130,80);tr.down();tr.goto(130,90)
+
+    tr.up();tr.goto(-75,70);tr.down();tr.goto(-180,32);tr.goto(-160,-14);tr.goto(-170,-24)
+    tr.up();tr.goto(-160,-14);tr.down();tr.goto(-170,-14);tr.up();tr.goto(-160,-14);tr.down()
+    tr.goto(-160,-24)
+    # ^^ arms
+
+    # vv hat
+    tr.pencolor("purple");tr.fillcolor("pink")
+    tr.up();tr.begin_fill();tr.goto(-80,200);tr.down();tr.goto(80,200)
+    tr.goto(80,240);tr.goto(60,240);tr.goto(60,300);tr.goto(-60,300);tr.goto(-60,240)
+    tr.goto(-80,240);tr.goto(-80,200);tr.end_fill()
