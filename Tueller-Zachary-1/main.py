@@ -1,11 +1,10 @@
 # Zachary Tueller
 # CS1400 - MO1
 # Assignment 1
-import task1
+from task1 import *;import turtle as t
 
-
-# Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print_hi('PyCharm')
+    task1() # reference task1 module per python best practices
+    code = input("Exit? Y/N: ") # the y/n here probably won't be functional, it's just there to add a stop
 
 
