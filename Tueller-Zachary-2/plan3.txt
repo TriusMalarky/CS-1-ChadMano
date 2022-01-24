@@ -1,0 +1,4 @@
+ > Import math module
+ > Take input variables from user
+ > Process input using math module; tan, pow, and pi
+ > Display output

@@ -1,7 +1,8 @@
 # Zachary Tueller
 # CS1400 - MO1
 # Assignment 1
-from task1 import *;import turtle as t
+from task1 import *
+
 
 if __name__ == '__main__':
     task1() # reference task1 module per python best practices

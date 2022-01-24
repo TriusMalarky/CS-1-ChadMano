@@ -5526,3 +5526,152 @@ def print_hi(name):
 "e","","2","1770","4703222","task1.py","1.1.2 for 2021-2022 @t1","0"
 "e","0","","1772","4703223","task1.py","1.1.2 for 2021-2022 @t1","0"
 "k","0",,"1772","4703223","task1.py","1.1.2 for 2021-2022 @t1","0"
+"a","Outside edit","","","1642452273951","task1.py","1.1.2 for 2021-2022 @t1","-1"
+"e","","# Zachary Tueller  
+# CS1400 - MO1
+# Assignment 1
+
+import turtle as t
+
+def task1():
+    s = t.getscr een() # nit screen
+    tr = t.Turtle()
+    s.title(""Why are there so many songs about snowmen?"") # define screen title/caption
+    tr.ht()
+
+    # vv b dy
+    tr.fillcolor(""white"")
+    tr.goto(0,-200);tr.begin_fill();tr.circle(120);tr.end_fill();tr.circle(120,180)
+    tr.goto(0,150);tr.begin_fill();tr.circle(80);tr.end_fill()
+    tr.goto(0,220);tr.begin_fill();tr.circle(60);tr.end_fill()
+    # ^^  nd body
+
+    # vv eyes
+    tr.fillcolor(""black"")
+    tr.up();tr.goto(-20,180);tr.dot(30);tr.goto(20,180);tr.dot(30)
+    # ^^ end eyes
+
+    # vv mouhtache
+    tr.fillcolor(""purple"")
+    tr.goto(3,150);tr.down();tr.circle(120,-15);tr.up()
+    tr.up();tr.goto(-3,150);tr.down();tr.circle(120,15)
+    # ^^moustache
+
+    # vv mouth
+    tr.pencolor(""red"");tr.pensize(5)
+    tr.up();tr.goto(-20,120);tr.down();tr.goto(20,120)
+    # ^^ mouth
+
+    # vv buttons
+    tr.pencolor(""green"");tr.up()
+    tr.goto(0,80);tr.dot();tr.goto(0,50);tr.dot();tr.goto(0,20);tr.dot()
+    # ^^ buttons
+
+    # vv arms
+    tr.pencolor(""brown"")
+    tr.goto(75,50);tr.down();tr.goto(100,30);tr.goto(130,80);tr.goto(140,90);tr.up()
+    tr.goto(130,80);tr.down();tr.goto(140,80);tr.up();tr.goto(130,80);tr.down();tr.goto(130,90)
+
+    tr.up();tr.goto(-75,70);tr.down();tr.goto(-180,32);tr.goto(-160,-14);tr.goto(-170,-24)
+    tr.up();tr.goto(-160,-14);tr.down();tr.goto(-170,-14);tr.up();tr.goto(-160,-14);tr.down()
+    tr.goto(-160,-24)
+    # ^^ arms
+
+    # vv hat
+    tr.pencolor(""purple"");tr.fillcolor(""pink"")
+    tr.up();tr.begin_fill();tr.goto(-80,200);tr.down();tr.goto(80,200)
+    tr.goto(80,240);tr.goto(60,240);tr.goto(60,300);tr.goto(-60,300);tr.goto(-60,240)
+    tr.goto(-80,240);tr.goto(-80,200);tr.end_fill()
+","0","1642452273952","task1.py","1.1.2 for 2021-2022 @t1","-1"
+"e","# Zachary Tueller  
+# CS1400 - MO1
+# Assignment 1
+
+import turtle as t
+
+def task1():
+    s = t.getscreen() # init screen
+    tr = t.Turtle()
+    s.title(""Why are there so many songs about snowmen?"") # define screen title/caption
+    tr.ht()
+
+    # vv body
+    tr.fillcolor(""white"")
+    tr.goto(0,-200);tr.begin_fill();tr.circle(120);tr.end_fill();tr.circle(120,180)
+    tr.goto(0,150);tr.begin_fill();tr.circle(80);tr.end_fill()
+    tr.goto(0,220);tr.begin_fill();tr.circle(60);tr.end_fill()
+    # ^^ end body
+
+    # vv eyes
+    tr.fillcolor(""black"")
+    tr.up();tr.goto(-20,180);tr.dot(30);tr.goto(20,180);tr.dot(30)
+    # ^^ end eyes
+
+    # vv moustache
+    tr.fillcolor(""purple"")
+    tr.goto(3,150);tr.down();tr.circle(120,-15);tr.up()
+    tr.up();tr.goto(-3,150);tr.down();tr.circle(120,15)
+    # ^^moustache
+
+    # vv mouth
+    tr.pencolor(""red"");tr.pensize(5)
+    tr.up();tr.goto(-20,120);tr.down();tr.goto(20,120)
+    # ^^ mouth
+
+    # vv buttons
+    tr.pencolor(""green"");tr.up()
+    tr.goto(0,80);tr.dot();tr.goto(0,50);tr.dot();tr.goto(0,20);tr.dot()
+    # ^^ buttons
+
+    # vv arms
+    tr.pencolor(""brown"")
+    tr.goto(75,50);tr.down();tr.goto(100,30);tr.goto(130,80);tr.goto(140,90);tr.up()
+    tr.goto(130,80);tr.down();tr.goto(140,80);tr.up();tr.goto(130,80);tr.down();tr.goto(130,90)
+
+    tr.up();tr.goto(-75,70);tr.down();tr.goto(-180,32);tr.goto(-160,-14);tr.goto(-170,-24)
+    tr.up();tr.goto(-160,-14);tr.down();tr.goto(-170,-14);tr.up();tr.goto(-160,-14);tr.down()
+    tr.goto(-160,-24)
+    # ^^ arms
+
+    # vv hat
+    tr.pencolor(""purple"");tr.fillcolor(""pink"")
+    tr.up();tr.begin_fill();tr.goto(-80,200);tr.down();tr.goto(80,200)
+    tr.goto(80,240);tr.goto(60,240);tr.goto(60,300);tr.goto(-60,300);tr.goto(-60,240)
+    tr.goto(-80,240);tr.goto(-80,200);tr.end_fill()
+","","0","1642452273952","task1.py","1.1.2 for 2021-2022 @t1","-1"
+"a","ShowYourWork Init","","","000","ShowYourWork Init","1.1.2 for 2021-2022 @t1","1"
+"a","Copy",,,"100008","main.py","1.1.2 for 2021-2022 @t1","0"
+"c","# Zachary Tueller
+# CS1400 - MO1
+# Assignment 1",,"0","100057","main.py","1.1.2 for 2021-2022 @t1","0"
+"a","Close Active Editor",,,"100656","main.py","1.1.2 for 2021-2022 @t1","0"
+"a","Copy",,,"2690737","task1.py","1.1.2 for 2021-2022 @t1","0"
+"c","s = t.getscreen() # init screen",,"88","2690753","task1.py","1.1.2 for 2021-2022 @t1","0"
+"a","EditorChange",,,"2691234","task1.py","1.1.2 for 2021-2022 @t1","0"
+"a","Copy",,,"2720568","task1.py","1.1.2 for 2021-2022 @t1","0"
+"c","s.title(""Why are there so many songs about snowmen?"") # define screen title/caption
+    tr.ht()",,"144","2720568","task1.py","1.1.2 for 2021-2022 @t1","0"
+"a","EditorChange",,,"2720942","task1.py","1.1.2 for 2021-2022 @t1","0"
+"a","Enter",,,"2835716","main.py","1.1.2 for 2021-2022 @t1","0"
+"e","# Zachary Tueller
+# CS1400 - MO1
+# Assignment 1
+from task1 import *
+
+if __name__ == '__main__':
+    task1() # reference task1 module per python best practices
+    code = input(""Exit? Y/N: "") # the y/n here probably won't be functional, it's just there to add a stop
+
+
+","","0","2835732","main.py","1.1.2 for 2021-2022 @t1","0"
+"e","
+","","69","2835732","main.py","1.1.2 for 2021-2022 @t1","0"
+"a","EditorChange",,,"2840684","main.py","1.1.2 for 2021-2022 @t1","0"
+"a","EditorChange",,,"2860778","main.py","1.1.2 for 2021-2022 @t1","0"
+"a","EditorChange",,,"2867754","main.py","1.1.2 for 2021-2022 @t1","0"
+"a","EditorChange",,,"2872127","main.py","1.1.2 for 2021-2022 @t1","0"
+"a","EditorChange",,,"2877147","main.py","1.1.2 for 2021-2022 @t1","0"
+"a","EditorChange",,,"2878272","main.py","1.1.2 for 2021-2022 @t1","0"
+"a","Copy",,,"2903181","main.py","1.1.2 for 2021-2022 @t1","0"
+"c","code = input(""Exit? Y/N: "")",,"164","2903183","main.py","1.1.2 for 2021-2022 @t1","0"
+"a","EditorChange",,,"2904297","main.py","1.1.2 for 2021-2022 @t1","0"
